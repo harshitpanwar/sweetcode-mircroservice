@@ -1,0 +1,5 @@
+
+#USER_CODE
+
+const answer = twoSum(#INPUT);
+console.log(answer);
